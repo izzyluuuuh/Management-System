@@ -1,0 +1,48 @@
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.AssemblyReference.cache
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.SuggestedBindingRedirects.cache
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.LoginForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.cache
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.MainForm1.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerButton.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.UserForms.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.UserModuleForm1.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerModuleForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CategoryForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CategoryModuleForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.ProductForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.ProductModuleForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.OrderForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.OrderModuleForm.resources
+E:\Oblino_Mark Rhaben\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.WelcomeForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe.config
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.exe
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\bin\Debug\ManagementSystem.pdb
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CategoryForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CategoryModuleForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerButton.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.CustomerModuleForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.LoginForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.MainForm1.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.OrderForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.OrderModuleForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.ProductForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.ProductModuleForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.Properties.Resources.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.UserForms.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.UserModuleForm1.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.WelcomeForm.resources
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.GenerateResource.cache
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.exe
+C:\Users\User\Downloads\ManagementSystem-20230117T130006Z-001\ManagementSystem\ManagementSystem\obj\Debug\ManagementSystem.pdb
